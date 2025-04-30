@@ -1,0 +1,6 @@
+gunicorn
+flask
+flask_mysqldb
+MySQL
+pymysql
+bcrypt
